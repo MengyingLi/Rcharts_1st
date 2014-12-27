@@ -1,0 +1,270 @@
+no,venue_name,venue_lat,venue_lng,venue_address,venue_city,venue_checkinsCount,url,Category
+1,Max SoHa,40.811205,-73.957782,1274 Amsterdam Ave,New York,2006,http://www.maxsoha.com,Food & Cafe
+2,Jackson Diner,40.74778552,-73.8915079,37-47 74th St,Jackson Heights,2838,http://jacksondiner.com,Food & Cafe
+3,The Dead Poet,40.78482,-73.977128,450 Amsterdam Ave,New York,11009,http://thedeadpoet.com,Bar
+4,The Original Chinatown Ice Cream Factory ,40.71559949,-73.99817377,65 Bayard St,New York,14170,http://www.chinatownicecreamfactory.com,Food & Cafe
+5,Cafe Lalo,40.78588626,-73.97688778,201 W 83rd St,New York,11746,http://cafelalo.com,Food & Cafe
+6,1020 Bar,40.803132,-73.964,1020 Amsterdam Ave,New York,7088,NA,Bar
+7,Joe's Shanghai ,40.76298166,-73.97588339,24 W 56th St,New York,9326,http://joeshanghairestaurants.com,Food & Cafe
+8,City Hall Park,40.713435,-74.006141,17 Park Row,New York,22413,http://nyc.gov/parks,Entertainment & Others
+9,Golden Unicorn Restaurant ,40.71350245,-73.99720877,18 E Broadway,New York,13213,http://www.goldenunicornrestaurant.com,Food & Cafe
+10,Loreley Restaurant & Biergarten,40.72112804,-73.99304867,7 Rivington St,New York,18986,http://www.loreleynyc.com,Food & Cafe
+11,Washington Square Park,40.73076295,-73.99738312,W 4th St,New York,131112,http://nyc.gov/parks,Entertainment & Others
+12,Madison Square Park,40.74218831,-73.98792419,Madison Ave,New York,130630,http://nyc.gov/parks,Entertainment & Others
+13,New Wonjo,40.74789975,-73.9869543,23 W 32nd St,New York,14588,http://www.newwonjo.com,Food & Cafe
+14,San Francisco International Airport (SFO),37.61865062,-122.3810005,N McDonnell Rd,San Francisco,1487027,http://flysfo.com,Transportation
+15,Macy's,40.75061379,-73.98856401,151 W 34th St,New York,181678,http://www.macys.com,Shopping
+16,Chelsea Market,40.74224172,-74.0054512,75 9th Ave,New York,126763,http://chelseamarket.com,Food & Cafe
+17,Mandoo Bar,40.747433,-73.985876,2 W 32nd St,New York,7421,http://mandoobarnyc.com,Food & Cafe
+18,Philadelphia Museum of Art,39.96572412,-75.18122435,2600 Benjamin Franklin Pkwy,Philadelphia,28577,http://www.philamuseum.org,Entertainment & Others
+19,Space Needle,47.6204909,-122.3493505,400 Broad St,Seattle,51170,http://www.spaceneedle.com,Entertainment & Others
+20,The Heights Bar & Grill,40.80516757,-73.96602866,2867 Broadway,New York,9184,http://www.theheightsnyc.com,Bar
+21,Latitude Bar & Grill,40.760937,-73.9875069,783 8th Ave,New York,14340,http://www.latitudebarnyc.com,Bar
+22,Stout,40.74985776,-73.99004761,133 W 33rd St,New York,34466,http://www.stoutnyc.com,Bar
+23,The Metropolitan Museum of Art,40.77893666,-73.9622982,1000 5th Ave,New York,164641,http://www.metmuseum.org,Entertainment & Others
+24,Boston Common,42.35499207,-71.06609344,Tremont St,Boston,65100,http://www.cityofboston.gov/parks,Food & Cafe
+25,New York Penn Station,40.7507948,-73.99357639,1 Penn Plz,New York,936827,NA,Transportation
+26,Sapporo,40.76023225,-73.98345709,152 W 49th St,New York,8484,http://www.sapporo-nyc.com,Food & Cafe
+27,Symphony Space,40.79389198,-73.97243321,2537 Broadway,New York,6821,http://www.symphonyspace.org,Entertainment & Others
+28,United Nations,40.74922394,-73.96867275,760 United Nations Plz,New York,22587,http://www.un.org,Office
+29,John F. Kennedy International Airport (JFK),40.64508936,-73.78452301,at JFK Access Rd,New York,1118170,http://www.panynj.gov/airports/jfk.html,Transportation
+30,Devi,40.73826648,-73.99113226,8 E 18th St,New York,2592,http://www.devinyc.com,Food & Cafe
+31,Cocola Bakery,37.32188146,-121.948092,333 Santana Row #1045,San Jose,6086,http://www.cocolabakery.com,Food & Cafe
+32,Bloomberg,40.76173158,-73.96798611,731 Lexington Ave,New York,39082,http://www.bloomberg.net,Office
+33,Bronx Zoo,40.84852098,-73.87776173,2300 Southern Blvd,Bronx,29016,http://www.bronxzoo.com,Entertainment & Others
+34,Buddakan,40.74185967,-74.00508642,75 9th Ave,New York,20399,http://www.buddakannyc.com,Food & Cafe
+35,Google New York,40.7411292,-74.0028737,76 9th Ave,New York,70591,http://www.google.com/about/locations/new-york,Office
+36,City Island Nautical Museum,40.84757404,-73.784572,190 Fordham St,Bronx,148,http://cityislandmuseum.org,Entertainment & Others
+37,Buddha Bodai ,40.71382765,-73.99870173,5 Mott St,New York,3570,http://www.chinatownvegetarian.com ,Food & Cafe
+38,Seattle-Tacoma International Airport (SEA),47.44364658,-122.3025942,17801 International Blvd,SeaTac,776012,http://www.portseattle.org/Sea-Tac/Pages/default.aspx,Transportation
+39,Junior's Restaurant & Bakery,40.75821277,-73.98682594,1515 Broadway,New York,28217,http://www.juniorscheesecake.com/our_restaurants/times_square/,Food & Cafe
+40,Perilla,40.73225367,-74.00200144,9 Jones St,New York,9369,http://www.perillanyc.com,Food & Cafe
+41,Essex Street Market,40.71918063,-73.98785532,120 Essex St,New York,11325,http://www.essexstreetmarket.com,Entertainment & Others
+42,Microsoft,40.75668492,-73.99008751,11 Times Sq,New York,10282,https://www.microsoft.com/en-us/default.aspx,Office
+43,Amsterdam Restaurant & Tapas Lounge,40.80896,-73.9596,1207 Amsterdam Ave,New York,3165,http://www.amsterdamrestaurant.com/home.aspx,Bar
+44,Lamont-Doherty Earth Observatory,41.00353881,-73.908371,61 Route 9W,Palisades,664,NA,Office
+45,MBTA South Station,42.35209812,-71.05516076,700 Atlantic Ave.,Boston,161001,http://www.south-station.net,Transportation
+46,Tropical 128,40.71968945,-73.99528718,128 Elizabeth St.,New York,5718,http://www.tropical128.com,Food & Cafe
+47,Shake Shack,40.78082577,-73.97648335,366 Columbus Ave,New York,37338,http://www.shakeshack.com,Food & Cafe
+48,Times Square,40.75648987,-73.98626804,Broadway & 7th Ave,New York,384340,http://timessquarenyc.org/index.aspx,Entertainment & Others
+49,Woorijip,40.74768966,-73.98639761,12 W 32nd St,New York,23436,http://woorijipnyc.com,Food & Cafe
+50,Lao Sze Chuan Restaurant,41.853391,-87.635051,2172 S Archer Ave,Chicago,5411,http://laoszechuanchinatown-hub.com,Food & Cafe
+51,Community Food & Cafe & Juice,40.80583493,-73.96573305,2893 Broadway,New York,9700,http://www.communityrestaurant.com,Food & Cafe
+52,Obicà Mozzarella Bar - NY Madison,40.76185025,-73.9733638,590 Madison Ave,New York,1856,http://obica.com/portal/US/en/home/,Bar
+53,Thai Market,40.80123166,-73.96512179,960 Amsterdam Ave,New York,5733,http://www.thaimarketny.net,Food & Cafe
+54,Kouzan Japanese Restaurant,40.79217582,-73.97179693,685 Amsterdam Ave,New York,1933,http://kouzanny.com,Food & Cafe
+55,Kunjip,40.74760689,-73.9863517,9 W 32nd St,New York,17046,http://www.kunjip.com,Food & Cafe
+56,Les Halles,40.7099506,-74.00893271,15 John St,New York,7654,http://leshalles.net,Food & Cafe
+57,Microsoft Commons,47.64418363,-122.1370912,15255 NE 40th St,Redmond,23788,NA,Food & Cafe
+58,Top Pot Doughnuts,47.61836706,-122.1988433,10600 NE 9th Pl,Bellevue,5053,http://www.toppotdoughnuts.com/index.html,Food & Cafe
+59,Pocha 32,40.74767619,-73.98654682,15 W 32nd St,New York,11853,http://pocha32nyc.com,Food & Cafe
+60,Lucky Strike Philadelphia,39.950689,-75.1632,1336 Chestnut St,Philadelphia,7004,http://www.bowlluckystrike.com/locations/pennsylvania/philadelphia/,Food & Cafe
+61,Century 21 Department Store,40.71056828,-74.01106817,22 Cortlandt St,New York,41292,http://www.c21stores.com,Entertainment & Others
+62,AMC Loews Orpheum 7,40.77913287,-73.95403816,1538 3rd Ave.,New York,14443,http://www.amctheatres.com/movie-theatres/amc-loews-orpheum-7,Entertainment & Others
+63,Central Park Zoo,40.76744416,-73.97193432,5th Ave,New York,29681,http://nyc.gov/parks,Entertainment & Others
+64,Artopolis Cafe,40.80521141,-73.96215436,1090 Amsterdam Ave,New York,4009,http://www.artopolisespresso.com,Food & Cafe
+65,Chennai Garden by Tiffin Wallah,40.74285826,-73.98285085,127 E 28th St,New York,3819,NA,Food & Cafe
+66,Sheraton Palo Alto Hotel,37.44146109,-122.1635149,625 El Camino Real,Palo Alto,8698,http://www.spg.com/foursquare/,Entertainment & Others
+67,Go! Go! Curry!,40.75468456,-73.99136756,273 W 38th St,New York,10131,http://gogocurryusa-ny.com,Food & Cafe
+68,Sunset Park Diner and Donuts,40.65129186,-74.00386647,889 5th Ave,Brooklyn,1794,http://sunsetparkdineranddonuts.com,Food & Cafe
+69,Hummus Kitchen,40.7764021,-73.95306766,1613 2nd Ave,New York,1808,http://www.hummuskitchen.com,Food & Cafe
+70,wichcraft,40.7545353,-73.98405254,1095 Avenue of the Americas,New York,6027,http://www.wichcraftnyc.com/Food & Cafe,Food & Cafe
+71,Thaiphoon,37.444235,-122.161846,543 Emerson St,Palo Alto,2467,http://www.thaiphoonrestaurant.com,Food & Cafe
+72,Queens Museum,40.7460865,-73.84666443,Great Lakes Court,Queens,3432,http://www.queensmuseum.org,Entertainment & Others
+73,Village Pourhouse,40.80226479,-73.96437563,982 Amsterdam Ave,New York,11650,http://villagepourhouse.com,Bar
+74,Saravanaa Bhavan,40.74160488,-73.98330424,81 Lexington Ave,New York,6498,http://saravanabhavan.com,Food & Cafe
+75,Vanessa's Dumplings,40.7329359,-73.98644352,220 E 14th St,New York,9634,http://vanessas.com,Food & Cafe
+76,Dean & Deluca,40.7558072,-73.99060249,620 8th Ave,New York,10456,http://www.deandeluca.com,Food & Cafe
+77,Chicago O'Hare International Airport (ORD),41.97727092,-87.90440083,10000 W O'Hare Ave,Chicago,1556038,http://t.co/LCADEmXvqt,Transportation
+78,The Westin Bellevue,47.61586967,-122.2008204,600 Bellevue Way NE,Bellevue,10627,http://www.westinbellevuehotel.com,Entertainment & Others
+79,Pinto Nouveau Thai Bistro,40.733177,-74.005532,118 Christopher St,New York,3951,http://pintonyc.com,Food & Cafe
+80,Pret A Manger,40.7582872,-73.98196128,1200 Avenue of the Americas,New York,5648,http://www.pret.com/us,Food & Cafe
+81,Central Park – Turtle Pond,40.77943655,-73.96790028,Central Park,New York,6296,http://www.centralparknyc.org,Entertainment & Others
+82,Beard Papa's,40.78205249,-73.98116648,2167 Broadway,New York,3479,http://muginohointl.com,Food & Cafe
+83,New York Pizza Suprema,40.75019614,-73.99493712,413 8th Ave,New York,7472,http://nypizzasuprema.com,Food & Cafe
+84,Public House,40.75057612,-73.97616462,140 E 41st St.,New York,17008,http://www.publichousenyc.com,Bar
+85,White Bear ,40.75880603,-73.8317728,135-02 Roosevelt Ave,Flushing,2447,NA,Food & Cafe
+86,Vine Sushi,40.80769,-73.964166,2955 Broadway,New York,4209,NA,Food & Cafe
+87,Gourmet Dumpling House,42.351359,-71.060768,52 Beach St,Boston,6768,http://www.gourmetdumpling.com,Food & Cafe
+88,Aroma Espresso Bar,40.750583,-73.974144,205 E 42nd St,New York,5729,http://www.facebook.com/aromaus,Food & Cafe
+89,AOL Inc.,40.73101808,-73.99124704,770 Broadway,New York,20785,http://www.aol.com,Office
+90,Boston Common Coffee Company,42.36389649,-71.05575152,97 Salem St,Boston,7881,http://bostoncommoncoffee.com,Food & Cafe
+91,Cafe Panino Mucho Giusto,40.73530691,-74.00594954,551 Hudson St,New York,2076,NA,Food & Cafe
+92,Sofia Restorante Italiano,40.624867,-74.030477,8406 3rd Ave,Brooklyn,443,NA,Food & Cafe
+93,Nam Son Vietnamese Restaurant,40.71822367,-73.99430011,245 Grand St,New York,5522,NA,Food & Cafe
+94,Gilt Groupe,40.74618272,-73.9826098,2 Park Ave,New York,9154,http://gi.lt/GiltJoin,Office
+95,Andre's Cafe & European Bakery,40.77698369,-73.95234485,1631 2nd Ave,New York,734,http://www.andrescafeny.com,Food & Cafe
+96,Ravagh Persian Grill,40.74556858,-73.98562858,11 E 30th St.,New York,3245,http://ravaghmidtown.com,Food & Cafe
+97,Stanford University,37.42893314,-122.1698141,450 Serra Mall,Stanford,35083,http://www.stanford.edu,Entertainment & Others
+98,Stage Door Delicatessen,40.75137641,-73.99403613,461 8th Ave,New York,4354,http://www.stagedoordeli.com,Food & Cafe
+99,Cafe Olympia,40.75140583,-73.97094748,833 2nd Ave,New York,2931,http://cafeolympianyc.com,Food & Cafe
+100,Skydeck Chicago,41.87884384,-87.63590634,233 S Wacker Dr,Chicago,25276,http://www.theskydeck.com,Entertainment & Others
+101,Mill Korean Restaurant,40.80586,-73.965443,2895 Broadway,New York,2303,http://millkorean.com,Food & Cafe
+102,The Greek Kitchen,40.76962745,-73.98809636,889 10th Ave,New York,1925,http://greekkitchennyc.com,Food & Cafe
+103,2014 US Open Tennis Championships,40.749701,-73.845582,USTA Billie Jean King National Tennis Center,Flushing,34169,http://www.usopen.org,Entertainment & Others
+104,Ambassador Theatre,40.76113723,-73.98512354,219 W 49th St,New York,10257,NA,Entertainment & Others
+105,Zaro's Bakery,40.75270199,-73.988676,501 7th Ave,New York,888,http://zaro.com,Food & Cafe
+106,Pho Xe Lua,39.95527,-75.154657,907 Race St,Philadelphia,2767,http://www.phillychinatown.com/restuarant/vietthai/vtmenu/vietthai_menu.htm,Food & Cafe
+107,Joe,40.73500513,-73.99326138,9 E 13th St,New York,17719,http://joenewyork.com,Food & Cafe
+108,Starbucks,40.778649,-73.956036,1261 Lexington Ave,New York,9278,http://www.starbucks.com/store/10249/,Food & Cafe
+109,Columbia Cottage,40.80367415,-73.96343432,1034 Amsterdam Ave,New York,971,http://columbiacottagenyc.com,Food & Cafe
+110,SoftBank Capital,40.74463743,-73.99324991,130 W 25th St,New York,323,NA,Office
+111,McKinsey & Co.,40.75879807,-73.97345563,55 E 52nd St,New York,4049,NA,Office
+112,Ichie Japanese Restaurant,40.798814,-73.961879,53 W 106th St,New York,315,NA,Food & Cafe
+113,Flushing Mall Food & Cafe Court,40.75948054,-73.83361816,13331 39th Ave.,Flushing,2656,NA,Food & Cafe
+114,Shanghai Asian Cuisine,40.71607,-73.99738,14A Elizabeth St,New York,2219,http://shanghaiasiancuisine.com/main/,Food & Cafe
+115,Pio Pio Salon,40.79281162,-73.97109097,702 Amsterdam Ave,New York,4558,http://www.piopio.com,Food & Cafe
+116,NYU Courant Institute of Mathematical Sciences,40.728693,-73.995627,251 Mercer St,New York,7233,http://www.nyu.edu,Office
+117,Neptune Oyster,42.36325892,-71.05603918,63 Salem St,Boston,8620,http://www.neptuneoyster.com,Food & Cafe
+118,Ramen Setagaya,40.72880254,-73.988159,34 1/2 Saint Marks Pl,New York,7031,http://www.ramensetagayany.com,Food & Cafe
+119,Skovorodka,40.578061,-73.96109,615 Brighton Beach Ave,Brooklyn,745,http://skovorodkanyc.com,Food & Cafe
+120,Tino's Delicatessen,40.85585805,-73.8872076,2410 Arthur Ave,Bronx,1845,http://www.tinosdeli.com,Food & Cafe
+121,Starbucks,40.70269992,-74.01269317,2 Water St,New York,6902,http://www.starbucks.com/store/13511/,Food & Cafe
+122,Fu Run,40.75870202,-73.83168012,40-09 Prince St.,New York,1534,http://furunflushing.com,Food & Cafe
+123,Zio Toto,40.62482881,-74.03050283,8407 3rd Ave,Brooklyn,639,http://www.ziototo.com,Food & Cafe
+124,Starbucks,40.71206614,-74.00803259,233 Broadway,New York,7400,http://www.starbucks.com/store/13537/,Food & Cafe
+125,Schapiro Studio Theater - Columbia University,40.80783025,-73.96512179,605 W 115th St,New York,633,NA,Entertainment & Others
+126,Joy Tsin Lau,39.955384,-75.156973,1026 Race St,Philadelphia,2258,http://joytsinlauchineserestaurant.com,Food & Cafe
+127,Brighton Bazaar,40.57828716,-73.9590893,1007 Brighton Beach Ave,Brooklyn,1001,NA,Food & Cafe
+128,Google,41.88948013,-87.62913887,20 W Kinzie St,Chicago,8552,NA,Office
+129,McDonald's,40.81586517,-73.95865881,600 W 125th St,New York,1818,http://mcdonalds.com,Food & Cafe
+130,Lady M Cake Boutique,40.77560553,-73.96233872,41 East 78th St.,New York,4799,https://www.facebook.com/ladymcakeboutique?ref=hl,Food & Cafe
+131,Tandoor-Oven Restaurant,40.77695302,-73.95568553,175 E 83rd St,New York,491,http://www.tandooroven.com,Food & Cafe
+132,New Haven Union Station,41.297247,-72.926862,50 Union Ave,New Haven,61494,NA,Transportation
+133,Facebook NYC,40.73121011,-73.99199188,770 Broadway,New York,9156,NA,Office
+134,Da Andrea Restaurant,40.7361223,-73.99591271,35 W 13th St,New York,3355,http://daandreanyc.com,Food & Cafe
+135,Arirang Korean Restaurant,40.74801279,-73.98720681,32 W 32nd St Fl 3,New York,4790,http://www.koreanrestaurantnyc.org,Food & Cafe
+136,Nan Xiang Xiao Long Bao,40.75987616,-73.8323234,38-12 Prince St.,Flushing,11176,NA,Food & Cafe
+137,Ivar's Fish Bar,47.44337085,-122.3032808,SEA Airport,SeaTac,3214,http://ivars.com,Food & Cafe
+138,Spot Dessert Bar,40.72925012,-73.98914659,13 St. Marks Pl,New York,13357,http://www.spotdessertbar.com,Food & Cafe
+139,Flour Bakery & Cafe,42.35115671,-71.04879307,"12 Farnsworth St, Fl 1",Boston,9826,http://www.flourbakery.com,Food & Cafe
+140,Cafe Paragon,41.82797046,-71.40083313,234 Thayer St,Providence,2825,http://paragonandviva.com,Food & Cafe
+141,The Cheesecake Factory,41.82901945,-71.41525305,94 Providence Pl,Providence,7772,http://www.thecheesecakefactory.com,Food & Cafe
+142,Nathan's Famous,40.75035218,-73.99294272,Penn Station,New York,763,http://nathansfamous.com,Food & Cafe
+143,PricewaterhouseCoopers LLP (PwC),40.75282282,-73.97989516,300 Madison Ave,New York,20107,http://www.pwc.com,Office
+144,Cathryn's Tuscan Grill,41.417956,-73.957835,91 Main St,Cold Spring,594,http://www.tuscangrill.com,Food & Cafe
+145,Wilmot Mountain,42.49899398,-88.18819353,11931 Fox River Rd,Wilmot,1913,NA,Entertainment & Others
+146,Edgar's Cafe,40.791252,-73.97239654,650 Amsterdam Ave,New York,1079,http://edgarscafe.net,Food & Cafe
+147,Moe's Southwest Grill,40.7512669,-73.99222839,1 Penn  Plaza (LIRR Level),New York,2522,http://www.moes.com,Food & Cafe
+148,Lan Sheng Restaurant,40.75275044,-73.98493989,60 W 39th St,New York,2401,http://www.lanshengnyc.com,Food & Cafe
+149,Tatany 72,40.76934608,-73.95802168,1400 2nd Ave,New York,544,NA,Food & Cafe
+150,Hampshire Mall,42.35675181,-72.54780968,367 Russell St,Hadley,4470,http://www.hampshiremall.com,Entertainment & Others
+151,Corrado Bread and Pastry Cafe,40.78193479,-73.95379133,1361 Lexington Ave,New York,853,http://corradobreadandpastry.com,Food & Cafe
+152,Unity Grocery Store,40.66811738,-73.9504908,876 Nostrand Ave,Brooklyn,142,NA,Entertainment & Others
+153,University of Massachusetts Amherst,42.38747445,-72.5262022,300 Massachusetts Ave,Amherst,7121,http://www.umass.edu,Office
+154,Katy's Dumpling House,41.784325,-88.16276759,790 Royal Saint George Dr,Naperville,407,http://www.katysdumpling.com,Food & Cafe
+155,TMagic,40.80534254,-73.96585073,2878 Broadway,New York,2862,NA,Food & Cafe
+156,Fu Kee Restaurant,40.60174798,-73.99349094,2211 86th St,Brooklyn,898,NA,Food & Cafe
+157,Berkshire Dining Common,42.38199849,-72.52982119,121 Southwest Cir,Amherst,4804,NA,Food & Cafe
+158,K-One Karaoke,40.71729979,-73.99539048,97 Bowery,New York,3204,http://www.konektv.com,Entertainment & Others
+159,Central Park - The Pool,40.7946433,-73.96120548,West Dr,New York,2930,http://www.centralparknyc.org,Entertainment & Others
+160,Pelham Bay Park,40.85465642,-73.81576538,Pelham Bay Park,Bronx,4410,http://nyc.gov/parks,Entertainment & Others
+161,Riverside Park - Cherry Walk,40.79847693,-73.97532463,NA,NA,1396,NA,Entertainment & Others
+162,Ten Ren Tea & Ginseng Co.,40.75929469,-73.83134125,135-18 Roosevelt Ave,Flushing,2169,http://www.tenrenusa.com,Food & Cafe
+163,MegaBus - NYC to Philadelphia,40.75236123,-73.99712563,NA,New York,2167,NA,Transportation
+164,Argo Tea,40.76720039,-73.98148298,1792 Broadway,New York,10562,http://www.facebook.com/argotea,Food & Cafe
+165,United Parcel Service - UPS Customer Center,40.76164408,-73.99789257,643 W 43rd St,New York,3979,NA,Office
+166,CityMD Prospect Heights,40.67774145,-73.9688015,NA,Brooklyn,5139,http://www.citymd.com,Entertainment & Others
+167,Beijing Cafe,42.349902,-71.10629846,728 Commonwealth Ave,Boston,491,http://beijingcafeusa.com,Food & Cafe
+168,The Greater Refuge Temple,40.80844118,-73.94824066,2081 Adam Clayton Powell Jr Blvd,New York,247,NA,Entertainment & Others
+169,MTA-B4 Bay Parkway,40.60823498,-73.987503,Bay Ridge Parkway (75th St),Brooklyn,93,NA,Transportation
+170,miss KOREA BBQ,40.74770796,-73.98628283,"10 W 32nd St (1, 2, 3 Fl.)",New York,15206,http://www.misskoreabbq.com,Food & Cafe
+171,MetLife Building,40.75473442,-73.98437977,1095 Avenue of the Americas,New York,5434,NA,Office
+172,J. King SeaFood & Cafe Palace,40.63664678,-74.01451113,618 62nd St,Brooklyn,1263,NA,Food & Cafe
+173,Sprinkles Cupcakes,41.89996906,-87.62642529,50 E Walton St,Chicago,14153,http://sprinkles.com,Food & Cafe
+174,New York Hall of Science Rocket Park,40.74774321,-73.85214352,NA,Corona,445,NA,Entertainment & Others
+175,Morning Star,41.96137282,-87.68824327,NA,Chicago,93,NA,Office
+176,Go-Go Pops,41.417779,-73.958534,64 Main St,Cold Spring,432,NA,Food & Cafe
+177,Cafe Nana,40.80753442,-73.96516197,606 W 115th St,New York,50,http://www.koshercafenana.com,Food & Cafe
+178,Boulders Near Southpoint,42.35005065,-72.52853295,NA,Amherst,292,NA,Entertainment & Others
+179,City of San José,37.33265567,-121.8929007,NA,NA,31182,http://www.sanjoseca.gov,Entertainment & Others
+180,Paris Baguette,40.747631,-73.98613,6 W 32nd St,New York,11436,http://www.parisbaguetteusa.com/parisbaguette/home.asp,Food & Cafe
+181,Lucky Plaza Restaurant,40.71730606,-73.9943288,81 Chrystie St,New York,443,NA,Food & Cafe
+182,"Microsoft Campus, Seattle WA",47.63241602,-122.1865392,NA,Bellevue,75,NA,Office
+183,Din Tai Fung Dumpling House ,47.61709915,-122.2009706,700 Bellevue Way NE,Bellevue,18987,http://www.dintaifungusa.com,Food & Cafe
+184,Hudson Highlands State Park,41.42676862,-73.96469132,NA,Cold Spring,274,NA,Entertainment & Others
+185,McGraw-Hill Education,40.74995895,-73.99193571,2 Penn Plz,New York,1246,NA,Office
+186,Papagãyo,42.34997089,-71.04980289,283 Summer St,Boston,9074,http://www.papagayoboston.com,Food & Cafe
+187,Food & Cafe Gallery 32,40.74773402,-73.9864263,11 W 32nd St,New York,21359,NA,Food & Cafe
+188,Babo Tea House,40.72678719,-74.03197289,10 River Dr S,Jersey City,6288,NA,Food & Cafe
+189,Jumel Terrace Historic District,40.83527495,-73.93848211,NA,NA,709,NA,Entertainment & Others
+190,Riverdale,40.90105787,-73.90605927,NA,Bronx,7409,NA,Entertainment & Others
+191,Kung Fu Tea,40.76077471,-73.82919312,136-20 38th Ave,Flushing,7222,NA,Food & Cafe
+192,Froyo World,41.82759263,-71.40047346,219 Thayer Street,Providence,2540,http://www.froyoworld.com,Food & Cafe
+193,Mexicue,40.74808603,-73.99246931,345 7th Ave,New York,4602,http://www.mexicue.com,Food & Cafe
+194,UNFCU Headquarters,40.74789957,-73.94336718,Court Square Place; 24-01 44th Road,Long Island City,2819,http://www.unfcu.org,Office
+195,Xi'an Famous Food & Cafes ,40.7155925,-73.99818524,67 Bayard St.,New York,7393,http://www.xianFood & Cafes.com,Food & Cafe
+196,Bryant Park - Library Terrace,40.75310922,-73.98144475,Bryant Park,New York,7094,http://www.facebook.com/bryantparknyc,Entertainment & Others
+197,Century 21 Department Store,40.77389232,-73.98213919,1972 Broadway,New York,12744,http://www.c21stores.com,Entertainment & Others
+198,Lou Malnati's Pizzeria,41.90256298,-87.628668,1120 N State St,Chicago,10961,http://www.loumalnatis.com,Food & Cafe
+199,Nikko,40.81133225,-73.9577806,1280 Amsterdam Ave,New York,2001,http://nikkohibachigrill.com,Food & Cafe
+200,Maharlika Filipino Moderno,40.72693796,-73.98578353,111 1st Ave,New York,8703,http://maharlikanyc.com,Food & Cafe
+201,Facebook HQ,37.48327006,-122.1495366,1 Hacker Way,Menlo Park,28137,NA,Office
+202,The Bean,40.73317756,-73.99116039,824 Broadway,New York,13996,http://thebeannyc.com,Food & Cafe
+203,"South Ferry, Manhattan Bike Path and Greenway",40.70232577,-74.0134871,State Street,New York,769,NA,Entertainment & Others
+204,NewsCred,40.74297857,-73.98496284,386 Park Ave S,New York,1743,NA,Office
+205,Central Perk,40.72106908,-73.99816096,199 Lafayette St,New York,1560,http://www.mtv.com/news/1914050/friends-central-perk-new-york/,Food & Cafe
+206,VU Bar NYC,40.74784549,-73.98662717,17 W 32nd St (rooftop),New York,5344,http://vunyc.com,Bar
+207,5th Ave Sunset Park,40.64228493,-74.01317412,NA,NA,335,NA,Entertainment & Others
+208,New World Mall Food & Cafe Court,40.75943449,-73.82905126,136-20 Roosevelt Ave.,Flushing,3797,NA,Food & Cafe
+209,Dyker Heights Christmas Lights,40.61753374,-74.01493575,NA,Brooklyn,1539,NA,Entertainment & Others
+210,ABC Cafeteria,40.77305283,-73.98030265,"77 W 66th St, New York, NY 10023",New York,751,NA,Food & Cafe
+211,Chihuly Garden and Glass,47.62054875,-122.3504555,305 Harrison St,Seattle,9183,http://www.chihulygardenandglass.com,Entertainment & Others
+212,Jin Ramen,40.81535397,-73.95856123,3183 Broadway,New York,6564,http://www.jinramen.com,Food & Cafe
+213,AlleyNYC,40.75335652,-73.99009352,500 Fashion Ave,New York,7730,http://www.thealleynyc.com,Office
+214,Zoob Zib Thai Noodle Bar,40.75443043,-73.99562003,462 9th Ave,New York,2649,NA,Food & Cafe
+215,Bitly HQ,40.7373643,-73.99246931,85 5th Ave,New York,2540,NA,Office
+216,Toshi's Living Room,40.74391369,-73.98917529,1141 Broadway,New York,4847,http://www.toshislivingroom.com/t/index.php,Bar
+217,Amherst Farm Winery,42.35880727,-72.48590191,529 Belchertown Rd,Amherst,147,NA,Entertainment & Others
+218,Ootoya,40.73887551,-73.99280228,8 W 18th St,New York,10090,http://ootoya.us,Food & Cafe
+219,Jum Mum,40.72941149,-73.9895598,5 Saint Marks Pl,New York,2654,http://jummumnyc.com,Food & Cafe
+220,Biang!,40.75803025,-73.82934246,41-10 Main St,Flushing,3437,http://www.biang-nyc.com,Food & Cafe
+221,Lura,40.79957515,-73.96261928,949 Columbus Ave,New York,1161,http://lurany.com,Food & Cafe
+222,Saiguette,40.79911109,-73.96284313,935 Columbus Ave,New York,974,http://saiguette.com,Food & Cafe
+223,Cornell Tech,40.74090046,-74.00221109,111 8th Ave,New York,1331,http://tech.cornell.edu,Office
+224,The Penrose,40.77543984,-73.95330917,1590 2nd Ave,New York,15222,http://penrosebar.com,Food & Cafe
+225,La Vie En Szechuan,40.74738113,-73.98458406,14 E 33rd St,New York,1594,http://lavieenszechuan.com,Food & Cafe
+226,Gregory's Coffee,40.74787108,-73.9892212,874 Avenue of the Americas,New York,11051,http://gregoryscoffee.com,Food & Cafe
+227,Central Park West- W 72 St,40.77615542,-73.97583174,Central Park West & W 72 St,New York,4047,NA,Entertainment & Others
+228,Come Buy,40.74479384,-73.98727568,251 5th Ave,New York,3924,http://comebuy2002.com.tw,Food & Cafe
+229,The Flatiron School,40.70516434,-74.01398063,11 Broadway Rm 260,New York,2644,http://www.flatironschool.com,Office
+230,UR CUP,40.73015147,-73.99368032,293 Mercer St,New York,1645,http://urcupny.com,Food & Cafe
+231,Riverside Park At 120th,40.81115572,-73.96415753,NA,New York,218,NA,Entertainment & Others
+232,Legend Upper West,40.80330342,-73.96679203,"258 West 109 ST, NY 10025",New York,500,http://legendupperwest.com,Food & Cafe
+233,brasserie magritte,40.77665006,-73.95555925,1463 3rd Ave,New York,1038,http://www.brasseriemagritte.com,Food & Cafe
+234,Happy Noodle Bar,39.95533049,-75.15540739,927 Race Street,Philadelphia,86,NA,Food & Cafe
+235,Lincoln Plaza Fountain,40.77168786,-73.9820531,NA,New York,268,NA,Entertainment & Others
+236,Nielsen,40.7041656,-74.01108539,85 Broad Street,New York,2795,http://nielsen.com,Office
+237,The Ellington,40.80048522,-73.96568428,936 Amsterdam Ave,New York,2202,http://www.theellingtonny.com,Food & Cafe
+238,The Aventine At Oakhurst North,41.76648711,-88.24840233,2800 Pontiac Ct,Aurora,220,NA,Entertainment & Others
+239,Brooklyn Botanic Garden Rose Garden,40.67182173,-73.96501848,NA,Brooklyn,1141,NA,Entertainment & Others
+240,IBM,40.74369852,-73.98500876,63 Madison Ave,New York,1290,NA,Office
+241,TR Street Food & Cafe,42.35094671,-71.04947209,343 Congress St,Boston,293,NA,Food & Cafe
+242,"Cold Spring, NY",41.41819834,-73.95798724,NA,NA,62,NA,Entertainment & Others
+243,Cafe Hong Kong ,40.715529,-73.997555,51 Bayard St,New York,882,NA,Food & Cafe
+244,Legend,40.77795319,-73.97988368,127 West 72nd Street,New York,292,NA,Food & Cafe
+245,PlaceIQ,40.74009236,-73.98568023,115 E 23rd St,New York,1641,NA,Office
+246,Lei Garden,37.32471,-122.034766,10125 Bandley Dr.,Cupertino,658,NA,Food & Cafe
+247,The Cecil,40.80481168,-73.95255804,210 W 118th St,New York,2052,http://www.thececilharlem.com,Food & Cafe
+248,The Meatball Shop,40.77163252,-73.95625379,1462 2nd Ave,New York,7113,http://themeatballshop.com,Food & Cafe
+249,WeWork Fulton Center,40.71117456,-74.00858402,222 Broadway,New York,6488,http://wework.com,Office
+250,Izakaya MEW,40.75027585,-73.98643778,53 W 35th St,New York,3433,http://mewnyc.com,Food & Cafe
+251,Bon Me Food & Cafe Truck @ Sowa,42.35213052,-71.05533948,NA,Boston,75,NA,Food & Cafe
+252,Pivotal Labs,40.74031445,-73.994742,625 Avenue of the Americas,New York,2945,http://pivotallabs.com,Office
+253,Café Grumpy,40.75441285,-73.988676,200 W 39th St,New York,5340,http://www.cafegrumpy.com,Food & Cafe
+254,75 West End Avenue,40.77347325,-73.98982953,75 W End Ave,New York,17,NA,Entertainment & Others
+255,BuzzFeed,40.74184341,-73.98941159,200 5th Ave,New York,8042,http://www.buzzfeed.com,Office
+256,Starbucks,40.75107961,-73.97510858,150 E 42nd St,New York,1308,http://www.starbucks.com/store/11854/,Food & Cafe
+257,Xi'an Famous Food & Cafes,40.798439,-73.969017,2675 Broadway,New York,1555,http://www.xianFood & Cafes.com,Food & Cafe
+258,Amtrak South Station,42.35122216,-71.05552519,NA,Boston,4067,NA,Transportation
+259,Dig Inn Seasonal Market,40.80578267,-73.96560393,2884 Broadway,New York,1398,http://diginn.com,Food & Cafe
+260,Bustan,40.78591169,-73.97598096,487 Amsterdam Ave,New York,523,http://bustannyc.com,Food & Cafe
+261,Wasabi Sushi & Bento,40.75482662,-73.98792419,501 7th Ave,New York,2566,https://www.wasabi.uk.com/us/,Food & Cafe
+262,McGraw-Hill Education,42.35008994,-71.0503078,281 Summer Street,Boston,69,NA,Office
+263,99 Favor Taste 99,40.71773323,-73.99249812,285 Grand St,New York,2346,http://www.favortaste.com,Food & Cafe
+264,RAMEN.Co NYC,40.70668525,-74.00687814,191 Pearl Street,New York,1424,http://ramen.co,Food & Cafe
+265,Szechuan Gourmet,40.80047126,-73.96769315,239 W 105th St,New York,134,NA,Food & Cafe
+266,e's BAR,40.786712,-73.97567,511 Amsterdam Ave,New York,1500,http://e-barnyc.com,Bar
+267,Flaming Kitchen <U+8700><U+5BA2>,40.71737289,-73.99533081,97 Bowery,New York,87,NA,Food & Cafe
+268,Crimson & Rye,40.75830784,-73.96914527,198 E 54th St,New York,348,http://crimsonandrye.com,Food & Cafe
+269,Dig Inn Seasonal Market,40.70435755,-74.01154445,80 Broad St.,New York,444,http://diginn.com,Food & Cafe
